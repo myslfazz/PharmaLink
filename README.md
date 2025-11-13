@@ -71,22 +71,25 @@ MediStore/
 
 ## ⚙️ Installation & Setup
 - 1️⃣ Clone the repository
-```git clone https://github.com/your-username/MediStore-Pharmacy-Management-System.git
+```
+git clone https://github.com/myslfazz/PharmaLink.git
 ```
 - 2️⃣ Move the project folder
   Place the project inside your XAMPP → htdocs directory.
 
 - 3️⃣ Setup Database
+```
   Open phpMyAdmin
-
-- Create a new database named medistore_db
-
-- Import the medistore_db.sql file (included in the repo)
-
+  Create a new database named medistore_db
+  Import the medistore_db.sql file (included in the repo)
+```
 - 4️⃣ Run the project
   Start Apache and MySQL from XAMPP Control Panel
   Then open your browser and go to:
-```http://localhost/MediStore/```
+```
+http://localhost/MediStore/`
+```
+---
 
 ## 💻 Usage
 - Admin Login: Access the dashboard, manage medicines, suppliers, and sales.
